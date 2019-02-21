@@ -1,6 +1,8 @@
 PHP FIG Simple Cache PSR
 ========================
 
+PHP 7 strict adapted version.
+
 This repository holds all interfaces related to PSR-16.
 
 Note that this is not a cache implementation of its own. It is merely an interface that describes a cache implementation. See [the specification](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-16-simple-cache.md) for more details.
